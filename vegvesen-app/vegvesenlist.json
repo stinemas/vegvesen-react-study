@@ -1,0 +1,488 @@
+[
+  {
+    "Bedriftsnavn": "SISTRANDA BIL OG DEKKSERVICE AS",
+    "Adresse": "NORDFRØYVEIEN 234",
+    "Postnummer": 7260,
+    "Poststed": "SISTRANDA",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 925140929,
+    "Godkjenningsnummer": 31808
+  },
+  {
+    "Bedriftsnavn": "OPPDAL AUTO AS",
+    "Adresse": "Nordre Industrivegen 90",
+    "Postnummer": 7340,
+    "Poststed": "OPPDAL",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 912040917,
+    "Godkjenningsnummer": 29719
+  },
+  {
+    "Bedriftsnavn": "NAF Senter Hamar",
+    "Adresse": "Gjerluvegen 1D",
+    "Postnummer": 2320,
+    "Poststed": "FURNES",
+    "Godkjenningstyper": "KONTROLLORGAN01, BILVERKSTED01",
+    "Organisasjonsnummer": 987372540,
+    "Godkjenningsnummer": 2198
+  },
+  {
+    "Bedriftsnavn": "Nøtterøy Autoservice AS",
+    "Adresse": "Nesbryggveien 4",
+    "Postnummer": 3133,
+    "Poststed": "DUKEN",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 997737717,
+    "Godkjenningsnummer": 21879
+  },
+  {
+    "Bedriftsnavn": "Dekkteam Tiller As",
+    "Adresse": "ØSTRE ROSTEN 80",
+    "Postnummer": 7075,
+    "Poststed": "TILLER",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 994465465,
+    "Godkjenningsnummer": 29662
+  },
+  {
+    "Bedriftsnavn": "Martin Lyng Karosseri",
+    "Adresse": "Svinesundsvein 325",
+    "Postnummer": 1788,
+    "Poststed": "HALDEN",
+    "Godkjenningstyper": "BILSKADE",
+    "Organisasjonsnummer": 982069009,
+    "Godkjenningsnummer": 459
+  },
+  {
+    "Bedriftsnavn": "URBAN BIL VIDAS URBANAVICIUS",
+    "Adresse": "KVÅLVEIEN 4",
+    "Postnummer": 4323,
+    "Poststed": "SANDNES",
+    "Godkjenningstyper": "BILVERKSTED01",
+    "Organisasjonsnummer": 920338321,
+    "Godkjenningsnummer": 31746
+  },
+  {
+    "Bedriftsnavn": "TELLUS SJØHOLT AS",
+    "Adresse": "SJØHOLTSTRAND",
+    "Postnummer": 6240,
+    "Poststed": "ØRSKOG",
+    "Godkjenningstyper": "BILVERKSTED01B",
+    "Organisasjonsnummer": 919305347,
+    "Godkjenningsnummer": 30264
+  },
+  {
+    "Bedriftsnavn": "HOVLI AUTO AS",
+    "Adresse": "Glitrevegen 21",
+    "Postnummer": 3550,
+    "Poststed": "GOL",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 936915779,
+    "Godkjenningsnummer": 3526
+  },
+  {
+    "Bedriftsnavn": "Bærum Biloppretting A/S",
+    "Adresse": "Rudssletta 84",
+    "Postnummer": 1351,
+    "Poststed": "RUD",
+    "Godkjenningstyper": "BILVERKSTED01, BILSKADE, KONTROLLORGAN01, SKADEVERKSTED02",
+    "Organisasjonsnummer": 934096711,
+    "Godkjenningsnummer": 953
+  },
+  {
+    "Bedriftsnavn": "Motor Forum AS avd. Notodden",
+    "Adresse": "Semsvegen 35",
+    "Postnummer": 3676,
+    "Poststed": "NOTODDEN",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 957290795,
+    "Godkjenningsnummer": 5108
+  },
+  {
+    "Bedriftsnavn": "City Bil & Elektro AS",
+    "Adresse": "Håndverkervn. 5",
+    "Postnummer": 9018,
+    "Poststed": "TROMSØ",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 944568212,
+    "Godkjenningsnummer": 9528
+  },
+  {
+    "Bedriftsnavn": "DEKKSTRA AS",
+    "Adresse": "C/O KVERNELAND BIL",
+    "Postnummer": 4313,
+    "Poststed": "SANDNES",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 914367182,
+    "Godkjenningsnummer": 29891
+  },
+  {
+    "Bedriftsnavn": "SUNNDAL BENSINSTASJONSDRIFT AS",
+    "Adresse": "SUNNDALSVEGEN 10",
+    "Postnummer": 6600,
+    "Poststed": "SUNNDALSØRA",
+    "Godkjenningstyper": "EKSOSANLEGG, HJUL",
+    "Organisasjonsnummer": 911560380,
+    "Godkjenningsnummer": 30109
+  },
+  {
+    "Bedriftsnavn": "ENGAN DRIFT OG UTLEIE AS",
+    "Adresse": "Ingebrigt Østnes gate 30",
+    "Postnummer": 7900,
+    "Poststed": "RØRVIK",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 920850928,
+    "Godkjenningsnummer": 31413
+  },
+  {
+    "Bedriftsnavn": "FRAMNES TRADING AS",
+    "Adresse": "Doneheia 167",
+    "Postnummer": 4516,
+    "Poststed": "MANDAL",
+    "Godkjenningstyper": "HENGERESPALOPSBREMSEANLEGG",
+    "Organisasjonsnummer": 991246924,
+    "Godkjenningsnummer": 30650
+  },
+  {
+    "Bedriftsnavn": "Biltrend Langnes AS",
+    "Adresse": "Skognesveien 2",
+    "Postnummer": 9016,
+    "Poststed": "Tromsø",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 977249007,
+    "Godkjenningsnummer": 9586
+  },
+  {
+    "Bedriftsnavn": "N.TIMENES & SØN A/S",
+    "Adresse": "SAGMYRA 10",
+    "Postnummer": 4622,
+    "Poststed": "KR.SAND",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 945292075,
+    "Godkjenningsnummer": 5700
+  },
+  {
+    "Bedriftsnavn": "GLOBAL BILOPPRETTING",
+    "Adresse": "Hurumvien 43",
+    "Postnummer": 3474,
+    "Poststed": "Åros",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01, BILSKADE",
+    "Organisasjonsnummer": 982589002,
+    "Godkjenningsnummer": 3689
+  },
+  {
+    "Bedriftsnavn": "Bil-Service Bruktbilsenter",
+    "Adresse": "Træleborgveien 3",
+    "Postnummer": 3112,
+    "Poststed": "TØNSBERG",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 975933601,
+    "Godkjenningsnummer": 10531
+  },
+  {
+    "Bedriftsnavn": "Jan Haukali  Auto A/S",
+    "Adresse": "Fabrikkveien 8",
+    "Postnummer": 4323,
+    "Poststed": "Sandnes",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 984039905,
+    "Godkjenningsnummer": 6039
+  },
+  {
+    "Bedriftsnavn": "Vianor AS, avd Namsos",
+    "Adresse": "Akslastien 1",
+    "Postnummer": 7820,
+    "Poststed": "SPILLUM",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 935429447,
+    "Godkjenningsnummer": 24800
+  },
+  {
+    "Bedriftsnavn": "KVEEN AS",
+    "Adresse": "Hegrevegen 15",
+    "Postnummer": 6781,
+    "Poststed": "STRYN",
+    "Godkjenningstyper": "BILVERKSTED01, BILVERKSTED02, BILVERKSTED03, TRAKTOR, KONTROLLORGAN04",
+    "Organisasjonsnummer": 929485467,
+    "Godkjenningsnummer": 7149
+  },
+  {
+    "Bedriftsnavn": "Nonslid Bilservice AS",
+    "Adresse": "Nygård",
+    "Postnummer": 5574,
+    "Poststed": "Skjold",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 924514442,
+    "Godkjenningsnummer": 6318
+  },
+  {
+    "Bedriftsnavn": "Tønsberg Vulk AS",
+    "Adresse": "Korniveien 4",
+    "Postnummer": 3157,
+    "Poststed": "BARKÅKER",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 874273422,
+    "Godkjenningsnummer": 4390
+  },
+  {
+    "Bedriftsnavn": "Agder Karosseri AS",
+    "Adresse": "Grøm Næringspark 15",
+    "Postnummer": 4887,
+    "Poststed": "GRIMSTAD",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01, SKADEVERKSTED02",
+    "Organisasjonsnummer": 913079221,
+    "Godkjenningsnummer": 27042
+  },
+  {
+    "Bedriftsnavn": "THANSEN AS avd. Hillevåg",
+    "Adresse": "Gartnerveien 4",
+    "Postnummer": 4016,
+    "Poststed": "STAVANGER",
+    "Godkjenningstyper": "HJUL",
+    "Organisasjonsnummer": 923897682,
+    "Godkjenningsnummer": 31615
+  },
+  {
+    "Bedriftsnavn": "MITT VERKSTED AS",
+    "Adresse": "Sandalsringen 3",
+    "Postnummer": 5225,
+    "Poststed": "NESTTUN",
+    "Godkjenningstyper": "BILVERKSTED01, HJUL, KONTROLLORGAN01",
+    "Organisasjonsnummer": 996234150,
+    "Godkjenningsnummer": 19960
+  },
+  {
+    "Bedriftsnavn": "Lofoten Servicesenter AS",
+    "Adresse": "Valbergsveien 2604",
+    "Postnummer": 8357,
+    "Poststed": "VALBERG",
+    "Godkjenningstyper": "TRAKTOR",
+    "Organisasjonsnummer": 928836312,
+    "Godkjenningsnummer": 31538
+  },
+  {
+    "Bedriftsnavn": "AUTOGLASS AS",
+    "Adresse": "Liamyrene 6",
+    "Postnummer": 5132,
+    "Poststed": "NYBORG",
+    "Godkjenningstyper": "BILGLASS",
+    "Organisasjonsnummer": 968552732,
+    "Godkjenningsnummer": 29377
+  },
+  {
+    "Bedriftsnavn": "H-MEK AS",
+    "Adresse": "Haukanesvegen 91",
+    "Postnummer": 5652,
+    "Poststed": "ÅRLAND",
+    "Godkjenningstyper": "TRAKTOR",
+    "Organisasjonsnummer": 918976639,
+    "Godkjenningsnummer": 30809
+  },
+  {
+    "Bedriftsnavn": "VALLDAL BILSENTER A/S",
+    "Adresse": "Valldal",
+    "Postnummer": 6211,
+    "Poststed": "VALLDAL",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01B, SKADEVERKSTED01, TRAKTOR, MOTORSYKKELOGMOPED, BILVERKSTED01B",
+    "Organisasjonsnummer": 961121094,
+    "Godkjenningsnummer": 7344
+  },
+  {
+    "Bedriftsnavn": "LARSEN CUSTOM BIKE SHOP AS",
+    "Adresse": "GREÅKERVEIEN 123",
+    "Postnummer": 1718,
+    "Poststed": "GREÅKER",
+    "Godkjenningstyper": "BILVERKSTED01, MOTORSYKKELOGMOPED",
+    "Organisasjonsnummer": 914087368,
+    "Godkjenningsnummer": 31225
+  },
+  {
+    "Bedriftsnavn": "ERNSTSEN MC & SNØSCOTER AS",
+    "Adresse": "Lagerveien 7",
+    "Postnummer": 8250,
+    "Poststed": "Rognan",
+    "Godkjenningstyper": "BILVERKSTED01, MOTORSYKKELOGMOPED, KONTROLLORGAN01",
+    "Organisasjonsnummer": 911711311,
+    "Godkjenningsnummer": 9127
+  },
+  {
+    "Bedriftsnavn": "HAUGEN TRANSPORT OG MASKIN AS",
+    "Adresse": "Arnatveitvegen 137",
+    "Postnummer": 5262,
+    "Poststed": "ARNATVEIT",
+    "Godkjenningstyper": "BILVERKSTED03, TRAKTOR, KONTROLLORGAN04, BILVERKSTED01, BILVERKSTED02",
+    "Organisasjonsnummer": 912171949,
+    "Godkjenningsnummer": 30295
+  },
+  {
+    "Bedriftsnavn": "M Nordvik AS avd Rensåsen",
+    "Adresse": "Sivert Nilsens gate 80",
+    "Postnummer": 8007,
+    "Poststed": "BODØ",
+    "Godkjenningstyper": "KONTROLLORGAN01, BILVERKSTED01B",
+    "Organisasjonsnummer": 960852338,
+    "Godkjenningsnummer": 31370
+  },
+  {
+    "Bedriftsnavn": "REP AUTO MEK AS",
+    "Adresse": "ST.HALVARDS GATE 33 F",
+    "Postnummer": "0192",
+    "Poststed": "OSLO",
+    "Godkjenningstyper": "KONTROLLORGAN01, BILVERKSTED01",
+    "Organisasjonsnummer": 924325283,
+    "Godkjenningsnummer": 31513
+  },
+  {
+    "Bedriftsnavn": "Davincigir AS",
+    "Adresse": "Trohaugen Industriområde",
+    "Postnummer": 6393,
+    "Poststed": "TOMREFJORD",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01, KONTROLLORGAN01B, BILVERKSTED01B",
+    "Organisasjonsnummer": 997300467,
+    "Godkjenningsnummer": 20379
+  },
+  {
+    "Bedriftsnavn": "NITTEBERG BIL AS",
+    "Adresse": "Tienveien 1",
+    "Postnummer": 1900,
+    "Poststed": "FETSUND",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 917149437,
+    "Godkjenningsnummer": 30013
+  },
+  {
+    "Bedriftsnavn": "Ålgård Landbrukssenter AS",
+    "Adresse": "Ålgårdslåtten 2A",
+    "Postnummer": 4330,
+    "Poststed": "ÅLGÅRD",
+    "Godkjenningstyper": "TRAKTOR",
+    "Organisasjonsnummer": 929440390,
+    "Godkjenningsnummer": 23700
+  },
+  {
+    "Bedriftsnavn": "VIKAN BIL AS",
+    "Adresse": "MAGNUS LAGABØTES VEG 4",
+    "Postnummer": 7047,
+    "Poststed": "TRONDHEIM",
+    "Godkjenningstyper": "BILVERKSTED01",
+    "Organisasjonsnummer": 912470121,
+    "Godkjenningsnummer": 30655
+  },
+  {
+    "Bedriftsnavn": "Autospeed AS",
+    "Adresse": "Ringvegen 13",
+    "Postnummer": 9018,
+    "Poststed": "TROMSØ",
+    "Godkjenningstyper": "KONTROLLORGAN01B, BILVERKSTED01B",
+    "Organisasjonsnummer": 983879314,
+    "Godkjenningsnummer": 9532
+  },
+  {
+    "Bedriftsnavn": "SULLAND AUTO TRØNDELAG AS, AVD. STEINKJER",
+    "Adresse": "Molovegen 26",
+    "Postnummer": 7714,
+    "Poststed": "STEINKJER",
+    "Godkjenningstyper": "BILVERKSTED01, KONTROLLORGAN01",
+    "Organisasjonsnummer": 980094111,
+    "Godkjenningsnummer": 8573
+  },
+  {
+    "Bedriftsnavn": "SULLAND VERDAL AS, avd. Øra",
+    "Adresse": "Tangenveien 17",
+    "Postnummer": 7650,
+    "Poststed": "VERDAL",
+    "Godkjenningstyper": "HJUL, BILVERKSTED01, BILSKADE",
+    "Organisasjonsnummer": 977235855,
+    "Godkjenningsnummer": 30573
+  },
+  {
+    "Bedriftsnavn": "ELEKTRO BILVERKSTED AS",
+    "Adresse": "ØRNEVEIEN 15",
+    "Postnummer": 1710,
+    "Poststed": "SARPSBORG",
+    "Godkjenningstyper": "KONTROLLORGAN01, BILVERKSTED01",
+    "Organisasjonsnummer": 915453112,
+    "Godkjenningsnummer": 29359
+  },
+  {
+    "Bedriftsnavn": "GRIDSVÅG BÅT MOTOR AS",
+    "Adresse": "GRIDSVÅGVEGEN 119",
+    "Postnummer": 6698,
+    "Poststed": "LESUND",
+    "Godkjenningstyper": "HJUL, BILGLASS, LYSUTSTYR, HENGERESPALOPSBREMSEANLEGG, PABYGGER",
+    "Organisasjonsnummer": 984413793,
+    "Godkjenningsnummer": 30394
+  },
+  {
+    "Bedriftsnavn": "Tide Verksted AS avd Fana",
+    "Adresse": "Krokeidevegen 8",
+    "Postnummer": 5244,
+    "Poststed": "FANA",
+    "Godkjenningstyper": "FARTSSKRIVER, KONTROLLORGAN04, ALKOLASVERKSTED, BILVERKSTED01, BILVERKSTED02, BILVERKSTED03",
+    "Organisasjonsnummer": 985538220,
+    "Godkjenningsnummer": 6664
+  },
+  {
+    "Bedriftsnavn": "Telemark Auto AS",
+    "Adresse": "KLYVEVEIEN 54",
+    "Postnummer": 3740,
+    "Poststed": "SKIEN",
+    "Godkjenningstyper": "BILVERKSTED01",
+    "Organisasjonsnummer": 911855461,
+    "Godkjenningsnummer": 30807
+  },
+  {
+    "Bedriftsnavn": "SKALA SKADE & LAKK AS Avd. Kristiansand",
+    "Adresse": "Barstøveien 40",
+    "Postnummer": 4636,
+    "Poststed": "KRISTIANSAND S",
+    "Godkjenningstyper": "BILSKADE",
+    "Organisasjonsnummer": 921903677,
+    "Godkjenningsnummer": 31100
+  },
+  {
+    "Bedriftsnavn": "FINNSKOGEN KRO OG MOTELL OG EIENDOM AS",
+    "Adresse": "Finnskogveien 2468",
+    "Postnummer": 2256,
+    "Poststed": "GRUE FINNSKOG",
+    "Godkjenningstyper": "BILVERKSTED01",
+    "Organisasjonsnummer": 976258185,
+    "Godkjenningsnummer": 29948
+  },
+  {
+    "Bedriftsnavn": "Møller Bil Haugesund  AS",
+    "Adresse": "Raglamyrvegen 4",
+    "Postnummer": 5536,
+    "Poststed": "HAUGESUND",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 944904069,
+    "Godkjenningsnummer": 6312
+  },
+  {
+    "Bedriftsnavn": "Søndeled Bilverksted AS",
+    "Adresse": "Øren 49",
+    "Postnummer": 4990,
+    "Poststed": "Søndeled",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 989753924,
+    "Godkjenningsnummer": 5325
+  },
+  {
+    "Bedriftsnavn": "TREDAL AS",
+    "Adresse": "Vestre Rosten 110",
+    "Postnummer": 7075,
+    "Poststed": "TILLER",
+    "Godkjenningstyper": "HENGERESPALOPSBREMSEANLEGG, LYSUTSTYR, HJUL",
+    "Organisasjonsnummer": 945707208,
+    "Godkjenningsnummer": 30864
+  },
+  {
+    "Bedriftsnavn": "Linkjendal Bilforretning As, avd. bobilverksted",
+    "Adresse": "Industriveien 14",
+    "Postnummer": 3766,
+    "Poststed": "SANNIDAL",
+    "Godkjenningstyper": "BILVERKSTED01B, KONTROLLORGAN01B",
+    "Organisasjonsnummer": 932728982,
+    "Godkjenningsnummer": 31121
+  },
+]
